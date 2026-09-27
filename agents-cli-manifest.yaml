@@ -1,0 +1,13 @@
+acli_version: 1.1.0
+agent_directory: app
+base_template: adk
+create_params:
+  agent_guidance_filename: GEMINI.md
+  cicd_runner: skip
+  deployment_target: agent_runtime
+  is_a2a: true
+  session_type: in_memory
+generated_at: '2026-09-27T16:30:49.039666+00:00'
+language: python
+name: nestfinder-ai
+region: us-west1
