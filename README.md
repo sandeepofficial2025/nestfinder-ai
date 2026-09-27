@@ -34,7 +34,7 @@ NestFinder AI integrates specialized tools and Google Cloud services to deliver 
 
 ---
 
-## 🛠️ Architecture & Google Cloud Integration
+## 🛠️ Architecture & Documentation
 
 * **Agent Framework:** Google Agent Development Kit (ADK) with `gemini-2.5-flash` model.
 * **Agent Runtime:** Deployed to Vertex AI Reasoning Engine with Agent-to-Agent (A2A) protocol support.
@@ -42,6 +42,8 @@ NestFinder AI integrates specialized tools and Google Cloud services to deliver 
 * **Media Storage:** Google Cloud Storage bucket (`nestfinder-media-*`).
 * **Location & Places:** Google Maps Geocoding API & Places API.
 * **Frontend:** Minimal FastAPI proxy with custom responsive chat UI and A2UI JSON rendering engine.
+* **Detailed Command Reference:** See [`COMMANDS.md`](COMMANDS.md) for step-by-step CLI commands for setup, deployment, demo recording, and GitHub publishing.
+
 
 ---
 
