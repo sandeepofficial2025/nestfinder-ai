@@ -43,6 +43,8 @@ NestFinder AI integrates specialized tools and Google Cloud services to deliver 
 * **Location & Places:** Google Maps Geocoding API & Places API.
 * **Frontend:** Minimal FastAPI proxy with custom responsive chat UI and A2UI JSON rendering engine.
 * **Detailed Command Reference:** See [`COMMANDS.md`](COMMANDS.md) for step-by-step CLI commands for setup, deployment, demo recording, and GitHub publishing.
+* **Prompts & Responses Guide:** See [`PROMPTS_AND_RESPONSES.md`](PROMPTS_AND_RESPONSES.md) for a comprehensive list of sample user prompts, tool calls, and example responses.
+
 
 
 ---
